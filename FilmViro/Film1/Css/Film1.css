@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.content {
+    width: 100vw;
+    height: 100vw;
+    position: relative; 
+    position: bottom;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE0eIaIkCOEZb9efwpdz042xYwoiHQo7jOLg&s);
+    background-repeat: no-repeat;
+    background-size: 100vw  100vw;
+}
+
+.header {
+    background-color: gray;
+    width: 100vw;
+    height: 10vw;
+}
+.logo_b {
+    cursor: pointer;
+    border-radius: 100%;
+    width: 9vw;
+    height: 9vw;
+}
+.logo {
+    width: 10vw;
+    height: 10vw;
+}
+
+
+    
